@@ -1,0 +1,14 @@
+-r requirements.txt 
+-r requirements-doc.txt
+pytest
+blue
+flake8
+isort
+interrogate
+pytest-mock
+pytest-cov
+black
+invoke
+faker
+mypy
+mypy-extensions

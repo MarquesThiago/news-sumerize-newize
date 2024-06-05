@@ -1,0 +1,19 @@
+argon2-cffi
+argon2-cffi-bindings
+beautifulsoup4
+goose3
+ipython
+jsonschema
+matplotlib-inline
+nltk
+notebook
+pandas
+parso
+pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.2.0/pt_core_news_sm-3.2.0-py3-none-any.whl
+Pygments
+PyMuPDF
+PyPDF2
+python-dateutil
+requests
+spacy
+typing_extensions
