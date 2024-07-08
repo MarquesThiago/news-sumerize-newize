@@ -1,4 +1,9 @@
 # Custom Dictionary Words
 aiohttp
+cachedir
+linux
 NEWRIZE
+pluggy
+plugins
+rootdir
 thinc
